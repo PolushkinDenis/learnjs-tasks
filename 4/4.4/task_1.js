@@ -1,0 +1,1 @@
+// Будет ошибка. У ref нет name. И this = undefined
