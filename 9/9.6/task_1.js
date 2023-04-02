@@ -1,0 +1,1 @@
+// a.__proto__ == B.prototype следовательно вернет true
